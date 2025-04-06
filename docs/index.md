@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "Project Kanha"
-  # text: "Home page of Project Kanha"
-  # tagline: My great project tagline
+  text: "Conquering Solar System"
+  tagline: Why limit humanity just to the Earth? Why not explore habitats beyond Earth, so that our survival is guaranteed in case a next meteority strikes, or a new deadly virus comes up.
   actions:
     - theme: brand
       text: About
       link: /about
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
+    - theme: alt
+      text: Team
+      link: /team
 
 # features:
 #   - title: Feature A

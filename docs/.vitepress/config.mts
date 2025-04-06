@@ -4,11 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Project Kanha",
   description: "Home page of Project Kanha",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about' }
+      { text: 'About', link: '/about' },
+      { text: 'Team', link: '/team' }
     ],
 
     sidebar: [
