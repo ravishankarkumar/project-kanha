@@ -1,4 +1,4 @@
-![An image](./resouces/images/project-krishna-conquering-the-solar-system.jpg)
+![An image](./resouces/images/project-kanha-opt.png)
 
 # Project Kanha
 
