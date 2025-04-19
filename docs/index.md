@@ -23,3 +23,10 @@ hero:
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+## Vidya Marg
+We need funds to get started. Leveraging the fact that we are a science buff, we have started teaching science at Vidya Marg, to generate funds for the project. 
+
+<div style="margin-top: 1rem; display: flex; gap: 1rem;">
+  <a href="https://www.youtube.com/@VidyaMargbyRaviShankar-w9u" target="_blank" class="VPButton brand">YouTube Channel</a>
+  <a href="https://vidyamarg.com/" target="_blank" class="VPButton alt">Visit Website</a>
+</div>
